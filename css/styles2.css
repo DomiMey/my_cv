@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  text-align: left;
+  font-family: 'Nova Mono', monospace;
+
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 100%;
+  border-color: #056676;
+  border-width: 6px;
+}
+h1 {
+  color: #8FE3CF;
+  width: 30%;
+  margin: 0 auto;
+  font-family: 'Caramel', cursive;
+  font-size: 100px;
+}
+h3 {
+  color: #056676
+}
