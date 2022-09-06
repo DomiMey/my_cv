@@ -83,6 +83,10 @@ hr {
   position:relative;
   top: 15px;
 }
+
+.table {
+  text-align: left;
+}
 /* .python {
   position: relative;
   right: 400px;
